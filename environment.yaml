@@ -1,0 +1,8 @@
+name: birth
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - pandas
+  - matplotlib
