@@ -7,3 +7,7 @@ dependencies:
   - pandas
   - matplotlib
   - seaborn
+  - sklearn
+  - statsmodels
+  - pymc3
+  - arviz
